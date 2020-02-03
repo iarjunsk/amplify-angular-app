@@ -14,4 +14,6 @@ Also check out [Spring boot resource server](https://github.com/arjunsk/cognito-
 
 Run `npm install` to install node modules.
 
+Update the cognito credentials in main.ts
+
 Run `ng serve -o` to run the project.
