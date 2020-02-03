@@ -1,5 +1,5 @@
 ### Angular App to show login flow using Amplify
-![Resource Server ](/resource-server.png)
+![Login Page](/angular.png)
 
 #### Features:
       1. Enabled Custom Provider (Federated Identity)
